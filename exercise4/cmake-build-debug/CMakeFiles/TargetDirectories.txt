@@ -1,0 +1,3 @@
+C:/Users/ilani/CLionProjects/exercise4/cmake-build-debug/CMakeFiles/exercise4.dir
+C:/Users/ilani/CLionProjects/exercise4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ilani/CLionProjects/exercise4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

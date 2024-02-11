@@ -1,0 +1,6 @@
+# ninja log v5
+0	155	6917814654453579	CMakeFiles/exercise5.dir/main.c.obj	e59fc8fe4edd3241
+0	108	6917814491144224	CMakeFiles/exercise5.dir/main.cpp.obj	70d361a1031a4eab
+68	142	6918003349412526	exercise5.exe	6e259bc8aaa7aa47
+1	68	6918003348699965	CMakeFiles/exercise5.dir/ex_3.c.obj	31b03c28fbdeb1db
+1	110	6923699408307264	build.ninja	979e01d1faee866e
